@@ -3,34 +3,12 @@
     <title>Web Dinheiro</title>
     <link href="https://tiagomiarelli.github.io/webdinheiro/feed.xml" rel="self" />
     <link href="https://tiagomiarelli.github.io/webdinheiro" />
-    <updated>2023-07-21T22:08:26-03:00</updated>
+    <updated>2023-07-21T22:13:15-03:00</updated>
     <author>
         <name>tiago miarelli</name>
     </author>
     <id>https://tiagomiarelli.github.io/webdinheiro</id>
 
-    <entry>
-        <title>Net Dinheiro</title>
-        <author>
-            <name>tiago miarelli</name>
-        </author>
-        <link href="https://tiagomiarelli.github.io/webdinheiro/net-dinheiro/"/>
-        <id>https://tiagomiarelli.github.io/webdinheiro/net-dinheiro/</id>
-
-        <updated>2023-07-21T22:08:17-03:00</updated>
-            <summary>
-                <![CDATA[
-                    Post - Reddit Dinheiro Net
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h2>Post</h2>
-<p>- <a href="https://www.reddit.com/r/dinheironet/" title="Reddit Dinheiro Net" target="_blank" rel="noopener noreferrer">Reddit Dinheiro Net</a></p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Posts Reddit Net Dinheiro</title>
         <author>
@@ -40,7 +18,7 @@
         <id>https://tiagomiarelli.github.io/webdinheiro/posts-reddit/</id>
         <media:content url="https://tiagomiarelli.github.io/webdinheiro/media/posts/1/reddit.webp" medium="image" />
 
-        <updated>2023-07-21T22:08:26-03:00</updated>
+        <updated>2023-07-21T22:13:15-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tiagomiarelli.github.io/webdinheiro/media/posts/1/reddit.webp" alt="" />
