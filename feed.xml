@@ -3,7 +3,7 @@
     <title>Web Dinheiro</title>
     <link href="https://tiagomiarelli.github.io/webdinheiro/feed.xml" rel="self" />
     <link href="https://tiagomiarelli.github.io/webdinheiro" />
-    <updated>2023-07-21T21:56:31-03:00</updated>
+    <updated>2023-07-21T21:59:03-03:00</updated>
     <author>
         <name>tiago miarelli</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://tiagomiarelli.github.io/webdinheiro/posts-reddit.html"/>
         <id>https://tiagomiarelli.github.io/webdinheiro/posts-reddit.html</id>
+        <media:content url="https://tiagomiarelli.github.io/webdinheiro/media/posts/1/reddit.webp" medium="image" />
 
-        <updated>2023-07-21T21:56:31-03:00</updated>
+        <updated>2023-07-21T21:59:03-03:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://tiagomiarelli.github.io/webdinheiro/media/posts/1/reddit.webp" alt="" />
                     Qual o valor de entrada necessário para financiamento Qual o valor de entrada necessário para financiamento Por quanto tempo devo&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://tiagomiarelli.github.io/webdinheiro/media/posts/1/reddit.webp" class="type:primaryImage" alt="" /></p>
                 <table dir="ltr" border="1" cellspacing="0" cellpadding="0"><colgroup><col width="367"></colgroup>
 <tbody>
 <tr>
