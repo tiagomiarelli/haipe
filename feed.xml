@@ -3,7 +3,7 @@
     <title>Haipe</title>
     <link href="https://haipe.com.br/feed.xml" rel="self" />
     <link href="https://haipe.com.br" />
-    <updated>2023-07-22T17:11:30-03:00</updated>
+    <updated>2023-07-22T17:13:34-03:00</updated>
     <author>
         <name>Tiago Santos</name>
     </author>
@@ -653,10 +653,10 @@
         <link href="https://haipe.com.br/produtos/"/>
         <id>https://haipe.com.br/produtos/</id>
 
-        <updated>2023-07-22T17:11:30-03:00</updated>
+        <updated>2023-07-22T17:13:34-03:00</updated>
             <summary>
                 <![CDATA[
-                    Planilhas: Google News Minha Resenha Links: Google News
+                    Planilhas: Google News Minha Resenha Posts Links: Google News
                 ]]>
             </summary>
         <content type="html">
@@ -665,7 +665,7 @@
 <ul>
 <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQTtMVxNpRGU7cDKK_VpRPJX5IfoDDF_K3qOaIfxPA6-68aUTdmZigVu2aC9mifbskfuEmAFbgEhug3/pubhtml" title="Google News Minha Resenha" target="_blank" rel="noopener noreferrer">Google News Minha Resenha</a></li>
 </ul>
-<h2>Links:</h2>
+<h2>Posts Links:</h2>
 <ul>
 <li><a href="https://haipe.com.br/google-news-minha-resenha/" title="Google News">Google News</a></li>
 </ul>
