@@ -3,7 +3,7 @@
     <title>Haipe</title>
     <link href="https://haipe.com.br/feed.xml" rel="self" />
     <link href="https://haipe.com.br" />
-    <updated>2023-07-22T16:45:57-03:00</updated>
+    <updated>2023-07-22T17:06:09-03:00</updated>
     <author>
         <name>Tiago Santos</name>
     </author>
@@ -41,9 +41,20 @@
         <link href="https://haipe.com.br/produtos/"/>
         <id>https://haipe.com.br/produtos/</id>
 
-        <updated>2023-07-22T16:44:51-03:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2023-07-22T17:06:09-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Planilhas: Google News Minha Resenha
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Planilhas:</h2>
+<ul>
+<li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQTtMVxNpRGU7cDKK_VpRPJX5IfoDDF_K3qOaIfxPA6-68aUTdmZigVu2aC9mifbskfuEmAFbgEhug3/pubhtml" title="Google News Minha Resenha" target="_blank" rel="noopener noreferrer">Google News Minha Resenha</a></li>
+</ul>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Finanças</title>
