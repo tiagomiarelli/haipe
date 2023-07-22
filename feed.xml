@@ -3,7 +3,7 @@
     <title>Web Dinheiro</title>
     <link href="https://tiagomiarelli.github.io/webdinheiro/feed.xml" rel="self" />
     <link href="https://tiagomiarelli.github.io/webdinheiro" />
-    <updated>2023-07-21T21:59:03-03:00</updated>
+    <updated>2023-07-21T22:01:07-03:00</updated>
     <author>
         <name>tiago miarelli</name>
     </author>
@@ -18,17 +18,22 @@
         <id>https://tiagomiarelli.github.io/webdinheiro/posts-reddit.html</id>
         <media:content url="https://tiagomiarelli.github.io/webdinheiro/media/posts/1/reddit.webp" medium="image" />
 
-        <updated>2023-07-21T21:59:03-03:00</updated>
+        <updated>2023-07-21T22:01:07-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tiagomiarelli.github.io/webdinheiro/media/posts/1/reddit.webp" alt="" />
-                    Qual o valor de entrada necessário para financiamento Qual o valor de entrada necessário para financiamento Por quanto tempo devo&hellip;
+                    O Reddit é uma plataforma de mídia social e comunidade online onde os usuários podem compartilhar links, postar textos, imagens&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://tiagomiarelli.github.io/webdinheiro/media/posts/1/reddit.webp" class="type:primaryImage" alt="" /></p>
-                <table dir="ltr" border="1" cellspacing="0" cellpadding="0"><colgroup><col width="367"></colgroup>
+                <p>O Reddit é uma plataforma de mídia social e comunidade online onde os usuários podem compartilhar links, postar textos, imagens e vídeos, e participar de discussões em tópicos de interesse, conhecidos como "subreddits". Lançado em 2005, o Reddit se tornou um dos sites mais populares da Internet.</p>
+<p>A estrutura principal do Reddit é baseada em uma série de subreddits temáticos, onde os usuários podem criar, moderar e participar de comunidades específicas que abrangem uma ampla gama de interesses. Existem subreddits para praticamente qualquer tópico imaginável, desde ciência, tecnologia, esportes e arte até hobbies, jogos, política e muito mais.</p>
+<p>Os usuários podem votar a favor ou contra o conteúdo postado, o que determina sua visibilidade na página principal do subreddit. Além disso, os comentários também são votados pelos usuários, o que influencia sua ordem de exibição e visibilidade.</p>
+<p>O Reddit é conhecido por sua comunidade ativa como por exemplo o reddit do <a href="https://www.reddit.com/r/dinheironet/" title="dinheiro net" target="_blank" rel="noopener noreferrer">dinheiro net</a> e diversificada, onde as discussões podem ser profundas, engraçadas, informativas ou polêmicas. Embora seja um local de livre expressão, cada subreddit é moderado por seus próprios administradores e moderadores, que têm o poder de estabelecer regras específicas para aquele espaço e monitorar o comportamento dos usuários.</p>
+<p>Em resumo, o Reddit é uma plataforma de discussão e compartilhamento de conteúdo que abriga uma variedade de comunidades com interesses diversos, proporcionando uma experiência única para seus usuários.</p>
+<table dir="ltr" border="1" cellspacing="0" cellpadding="0"><colgroup><col width="367"></colgroup>
 <tbody>
 <tr>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Qual o valor de entrada necessário para financiamento&quot;}" data-sheets-formula="=HIPERLINK(R[0]C[-1];R[0]C[-2])" data-sheets-hyperlink="https://www.reddit.com/r/dinheironet/comments/14z3upd/qual_o_valor_de_entrada_necessário_para/"><a class="in-cell-link" href="https://www.reddit.com/r/dinheironet/comments/14z3upd/qual_o_valor_de_entrada_necessário_para/" target="_blank" rel="noopener">Qual o valor de entrada necessário para financiamento</a></td>
@@ -85,6 +90,7 @@
 </tr>
 </tbody>
 </table>
+<p> </p>
             ]]>
         </content>
     </entry>
