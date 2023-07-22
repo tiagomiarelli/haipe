@@ -9,5 +9,41 @@
         "name": "Tiago Santos"
     },
     "items": [
+        {
+            "id": "https://haipe.com.br/produtos/",
+            "url": "https://haipe.com.br/produtos/",
+            "title": "Produtos",
+            "author": {
+                "name": "Tiago Santos"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-22T16:44:51-03:00",
+            "date_modified": "2023-07-22T16:44:51-03:00"
+        },
+        {
+            "id": "https://haipe.com.br/financas/",
+            "url": "https://haipe.com.br/financas/",
+            "title": "Finanças",
+            "author": {
+                "name": "Tiago Santos"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-22T16:44:45-03:00",
+            "date_modified": "2023-07-22T16:44:45-03:00"
+        },
+        {
+            "id": "https://haipe.com.br/viagens/",
+            "url": "https://haipe.com.br/viagens/",
+            "title": "Viagens",
+            "author": {
+                "name": "Tiago Santos"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-22T16:44:34-03:00",
+            "date_modified": "2023-07-22T16:44:34-03:00"
+        }
     ]
 }
