@@ -3,7 +3,7 @@
     <title>Web Dinheiro</title>
     <link href="https://tiagomiarelli.github.io/webdinheiro/feed.xml" rel="self" />
     <link href="https://tiagomiarelli.github.io/webdinheiro" />
-    <updated>2023-07-21T22:31:28-03:00</updated>
+    <updated>2023-07-21T22:39:42-03:00</updated>
     <author>
         <name>tiago miarelli</name>
     </author>
@@ -17,8 +17,9 @@
         <link href="https://tiagomiarelli.github.io/webdinheiro/google-news/"/>
         <id>https://tiagomiarelli.github.io/webdinheiro/google-news/</id>
         <media:content url="https://tiagomiarelli.github.io/webdinheiro/media/posts/4/news.webp" medium="image" />
+            <category term="Posts"/>
 
-        <updated>2023-07-21T22:31:28-03:00</updated>
+        <updated>2023-07-21T22:39:32-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tiagomiarelli.github.io/webdinheiro/media/posts/4/news.webp" alt="" />
@@ -1651,8 +1652,9 @@
         <link href="https://tiagomiarelli.github.io/webdinheiro/posts-reddit/"/>
         <id>https://tiagomiarelli.github.io/webdinheiro/posts-reddit/</id>
         <media:content url="https://tiagomiarelli.github.io/webdinheiro/media/posts/1/reddit.webp" medium="image" />
+            <category term="Posts"/>
 
-        <updated>2023-07-21T22:13:15-03:00</updated>
+        <updated>2023-07-21T22:39:42-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tiagomiarelli.github.io/webdinheiro/media/posts/1/reddit.webp" alt="" />
