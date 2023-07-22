@@ -1,0 +1,56 @@
+<!DOCTYPE html><html lang="pt-br"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Web Dinheiro</title><meta name="generator" content="Publii Open-Source CMS for Static Site"><link rel="canonical" href="https://github.io/webdinheiro/"><link rel="alternate" type="application/atom+xml" href="https://github.io/webdinheiro/feed.xml"><link rel="alternate" type="application/json" href="https://github.io/webdinheiro/feed.json"><meta property="og:title" content="Web Dinheiro"><meta property="og:site_name" content="Web Dinheiro"><meta property="og:description" content=""><meta property="og:url" content="https://github.io/webdinheiro/"><meta property="og:type" content="website"><style>:root{--body-font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";--heading-font:var(--body-font);--logo-font:var(--body-font);--menu-font:var(--body-font)}</style><link rel="stylesheet" href="https://github.io/webdinheiro/assets/css/style.css?v=c3005eddbfb59de52fc541f089919925"><script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"Web Dinheiro","url":"https://github.io/webdinheiro/"}</script></head><body><header class="header" id="js-header"><a href="https://github.io/webdinheiro/" class="logo">Web Dinheiro</a></header><main class="main"><div class="hero"><div class="wrapper"><h1>Design Resources</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></div></div><div class="main__content wrapper"></div></main><footer class="footer"><div class="wrapper"><div class="footer__top"><a class="logo footer__logo" href="https://github.io/webdinheiro/">Web Dinheiro</a><div class="footer__newsletter"><h3 class="h6">Subscribe</h3></div></div><div class="footer__bottom"><div class="footer__copyright">&copy; 2020 Powered by <a href="https://getpublii.com" target="_blank" rel="noopener noreferrer nofollow">Publii Static CMS</a></div></div></div><button class="footer__bttop js-footer__bttop"><svg aria-hidden="true"><use xlink:href="https://github.io/webdinheiro/assets/svg/svg-map.svg#toparrow"/></svg></button></footer><script defer="defer" src="https://github.io/webdinheiro/assets/js/isotope.pkgd.min.js?v=2afcff647ed260006faa71c8e779e8d4"></script><script>window.addEventListener("DOMContentLoaded", function () {
+               // init Isotope
+               var iso = new Isotope('.l-isotope', {
+                  itemSelector: '.c-card',
+                  layoutMode: 'fitRows',
+                  masonry: {
+                     columnWidth: '.c-card'
+                  },
+                  percentPosition: true,
+                  transitionDuration: "0.6s"
+               });
+
+               // bind filter button click
+               var filtersElem = document.querySelector('.filter');
+               if (filtersElem) {
+                  filtersElem.addEventListener('click', function (event) {
+                     if (!matchesSelector(event.target, 'button')) {
+                        return;
+                     }
+                     var filterValue = event.target.getAttribute('data-filter');
+                     filterValue = filterValue;
+                     iso.arrange({
+                        filter: filterValue
+                     });
+                  });
+                  // change is-checked class on buttons
+                  var buttonGroups = document.querySelectorAll('.filter');
+                  for (var i = 0, len = buttonGroups.length; i < len; i++) {
+                     var buttonGroup = buttonGroups[i];
+                     radioButtonGroup(buttonGroup);
+                  }
+                  function radioButtonGroup(buttonGroup) {
+                     buttonGroup.addEventListener('click', function (event) {
+                        if (!matchesSelector(event.target, 'button')) {
+                           return;
+                        }
+                        buttonGroup.querySelector('.is-active').classList.remove('is-active');
+                        event.target.classList.add('is-active');
+                     });
+                  }            
+               }
+            });</script><script>window.publiiThemeMenuConfig = { mobileMenuMode: 'sidebar', animationSpeed: 300, submenuWidth: 'auto', doubleClickTime: 500, mobileMenuExpandableSubmenus: true, relatedContainerForOverlayMenuSelector: '.navbar', };</script><script defer="defer" src="https://github.io/webdinheiro/assets/js/scripts.min.js?v=ea30e966488ea4e09df508f547988da0"></script><script>function publiiDetectLoadedImages () {
+         var images = document.querySelectorAll('img[loading]:not(.is-loaded)');
+         for (var i = 0; i < images.length; i++) {
+            if (images[i].complete) {
+                  images[i].classList.add('is-loaded');
+                  images[i].parentNode.classList.add('is-loaded');
+            } else {
+                  images[i].addEventListener('load', function () {
+                     this.classList.add('is-loaded');
+                     this.parentNode.classList.add('is-loaded');
+                  }, false);
+            }
+         }
+      }
+      publiiDetectLoadedImages();</script></body></html>
