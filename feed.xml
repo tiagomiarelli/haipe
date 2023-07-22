@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Web Dinheiro</title>
-    <link href="https://tiagomiarelli.github.io/webdinheiro/feed.xml" rel="self" />
-    <link href="https://tiagomiarelli.github.io/webdinheiro" />
+    <link href="https://haipe.com.br/feed.xml" rel="self" />
+    <link href="https://haipe.com.br" />
     <updated>2023-07-21T22:39:42-03:00</updated>
     <author>
         <name>tiago miarelli</name>
     </author>
-    <id>https://tiagomiarelli.github.io/webdinheiro</id>
+    <id>https://haipe.com.br</id>
 
     <entry>
         <title>Google News</title>
         <author>
             <name>tiago miarelli</name>
         </author>
-        <link href="https://tiagomiarelli.github.io/webdinheiro/google-news/"/>
-        <id>https://tiagomiarelli.github.io/webdinheiro/google-news/</id>
-        <media:content url="https://tiagomiarelli.github.io/webdinheiro/media/posts/4/news.webp" medium="image" />
+        <link href="https://haipe.com.br/google-news/"/>
+        <id>https://haipe.com.br/google-news/</id>
+        <media:content url="https://haipe.com.br/media/posts/4/news.webp" medium="image" />
             <category term="Posts"/>
 
         <updated>2023-07-21T22:39:32-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://tiagomiarelli.github.io/webdinheiro/media/posts/4/news.webp" alt="" />
+                        <img src="https://haipe.com.br/media/posts/4/news.webp" alt="" />
                     Google News era um serviço de agregador de notícias fornecido pelo Google. Ele funcionava como uma plataforma para coletar e&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://tiagomiarelli.github.io/webdinheiro/media/posts/4/news.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://haipe.com.br/media/posts/4/news.webp" class="type:primaryImage" alt="" /></p>
                 <p>Google News era um serviço de agregador de notícias fornecido pelo Google. Ele funcionava como uma plataforma para coletar e exibir artigos de notícias de várias fontes da internet, apresentando-os de forma conveniente e organizada.</p>
 <p>O Google News utilizava algoritmos para rastrear a web e selecionar artigos de milhares de sites de notícias e blogs, abrangendo uma ampla gama de tópicos e regiões. A plataforma tinha como objetivo fornecer aos usuários conteúdo de notícias personalizado com base em seus interesses e comportamento de navegação. Os usuários podiam personalizar suas preferências de notícias, e o serviço apresentava a eles histórias relevantes.</p>
 <p>O Google News exibia manchetes, trechos e links para artigos completos, permitindo que os usuários clicassem e lessem as histórias completas nos sites de origem. Além disso, oferecia várias seções, como Principais Notícias, Mundo, Negócios, Tecnologia, Esportes e mais, para ajudar os usuários a acessar rapidamente notícias em categorias específicas.</p>
@@ -1649,21 +1649,21 @@
         <author>
             <name>tiago miarelli</name>
         </author>
-        <link href="https://tiagomiarelli.github.io/webdinheiro/posts-reddit/"/>
-        <id>https://tiagomiarelli.github.io/webdinheiro/posts-reddit/</id>
-        <media:content url="https://tiagomiarelli.github.io/webdinheiro/media/posts/1/reddit.webp" medium="image" />
+        <link href="https://haipe.com.br/posts-reddit/"/>
+        <id>https://haipe.com.br/posts-reddit/</id>
+        <media:content url="https://haipe.com.br/media/posts/1/reddit.webp" medium="image" />
             <category term="Posts"/>
 
         <updated>2023-07-21T22:39:42-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://tiagomiarelli.github.io/webdinheiro/media/posts/1/reddit.webp" alt="" />
+                        <img src="https://haipe.com.br/media/posts/1/reddit.webp" alt="" />
                     O Reddit é uma plataforma de mídia social e comunidade online onde os usuários podem compartilhar links, postar textos, imagens&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://tiagomiarelli.github.io/webdinheiro/media/posts/1/reddit.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://haipe.com.br/media/posts/1/reddit.webp" class="type:primaryImage" alt="" /></p>
                 <p>O Reddit é uma plataforma de mídia social e comunidade online onde os usuários podem compartilhar links, postar textos, imagens e vídeos, e participar de discussões em tópicos de interesse, conhecidos como "subreddits". Lançado em 2005, o Reddit se tornou um dos sites mais populares da Internet.</p>
 <p>A estrutura principal do Reddit é baseada em uma série de subreddits temáticos, onde os usuários podem criar, moderar e participar de comunidades específicas que abrangem uma ampla gama de interesses. Existem subreddits para praticamente qualquer tópico imaginável, desde ciência, tecnologia, esportes e arte até hobbies, jogos, política e muito mais.</p>
 <p>Os usuários podem votar a favor ou contra o conteúdo postado, o que determina sua visibilidade na página principal do subreddit. Além disso, os comentários também são votados pelos usuários, o que influencia sua ordem de exibição e visibilidade.</p>

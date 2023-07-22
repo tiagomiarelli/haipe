@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://tiagomiarelli.github.io/webdinheiro/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://haipe.com.br/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://tiagomiarelli.github.io/webdinheiro/</loc>
+<loc>https://haipe.com.br/</loc>
 </url>
 <url>
-<loc>https://tiagomiarelli.github.io/webdinheiro/google-news/</loc>
+<loc>https://haipe.com.br/google-news/</loc>
 <lastmod>2023-07-21T22:39:32-03:00</lastmod>
 <image:image>
-<image:loc>https://tiagomiarelli.github.io/webdinheiro/media/posts/4/news.webp</image:loc>
+<image:loc>https://haipe.com.br/media/posts/4/news.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://tiagomiarelli.github.io/webdinheiro/posts-reddit/</loc>
+<loc>https://haipe.com.br/posts-reddit/</loc>
 <lastmod>2023-07-21T22:39:42-03:00</lastmod>
 <image:image>
-<image:loc>https://tiagomiarelli.github.io/webdinheiro/media/posts/1/reddit.webp</image:loc>
+<image:loc>https://haipe.com.br/media/posts/1/reddit.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
