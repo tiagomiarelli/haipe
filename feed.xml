@@ -3,12 +3,36 @@
     <title>Haipe</title>
     <link href="https://haipe.com.br/feed.xml" rel="self" />
     <link href="https://haipe.com.br" />
-    <updated>2023-07-22T16:44:51-03:00</updated>
+    <updated>2023-07-22T16:45:57-03:00</updated>
     <author>
         <name>Tiago Santos</name>
     </author>
     <id>https://haipe.com.br</id>
 
+    <entry>
+        <title>Web 2.0</title>
+        <author>
+            <name>Tiago Santos</name>
+        </author>
+        <link href="https://haipe.com.br/web-20/"/>
+        <id>https://haipe.com.br/web-20/</id>
+
+        <updated>2023-07-22T16:45:57-03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Podcasts</title>
+        <author>
+            <name>Tiago Santos</name>
+        </author>
+        <link href="https://haipe.com.br/podcasts/"/>
+        <id>https://haipe.com.br/podcasts/</id>
+
+        <updated>2023-07-22T16:45:50-03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Produtos</title>
         <author>

@@ -10,6 +10,30 @@
     },
     "items": [
         {
+            "id": "https://haipe.com.br/web-20/",
+            "url": "https://haipe.com.br/web-20/",
+            "title": "Web 2.0",
+            "author": {
+                "name": "Tiago Santos"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-22T16:45:57-03:00",
+            "date_modified": "2023-07-22T16:45:57-03:00"
+        },
+        {
+            "id": "https://haipe.com.br/podcasts/",
+            "url": "https://haipe.com.br/podcasts/",
+            "title": "Podcasts",
+            "author": {
+                "name": "Tiago Santos"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-22T16:45:50-03:00",
+            "date_modified": "2023-07-22T16:45:50-03:00"
+        },
+        {
             "id": "https://haipe.com.br/produtos/",
             "url": "https://haipe.com.br/produtos/",
             "title": "Produtos",
