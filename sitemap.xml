@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://haipe.com.br/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://tiagomiarelli.github.io/haipe/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://haipe.com.br/</loc>
+<loc>https://tiagomiarelli.github.io/haipe/</loc>
 </url>
 <url>
-<loc>https://haipe.com.br/financas/</loc>
+<loc>https://tiagomiarelli.github.io/haipe/financas/</loc>
 <lastmod>2023-07-22T16:44:45-03:00</lastmod>
 </url>
 <url>
-<loc>https://haipe.com.br/google-news-minha-resenha/</loc>
+<loc>https://tiagomiarelli.github.io/haipe/google-news-minha-resenha/</loc>
 <lastmod>2023-07-22T17:29:13-03:00</lastmod>
 </url>
 <url>
-<loc>https://haipe.com.br/podcasts/</loc>
+<loc>https://tiagomiarelli.github.io/haipe/podcasts/</loc>
 <lastmod>2023-07-22T16:45:50-03:00</lastmod>
 </url>
 <url>
-<loc>https://haipe.com.br/produtos/</loc>
+<loc>https://tiagomiarelli.github.io/haipe/produtos/</loc>
 <lastmod>2023-07-22T17:13:34-03:00</lastmod>
 </url>
 <url>
-<loc>https://haipe.com.br/viagens/</loc>
+<loc>https://tiagomiarelli.github.io/haipe/viagens/</loc>
 <lastmod>2023-07-22T16:44:34-03:00</lastmod>
 </url>
 <url>
-<loc>https://haipe.com.br/web-20/</loc>
+<loc>https://tiagomiarelli.github.io/haipe/web-20/</loc>
 <lastmod>2023-07-22T16:45:57-03:00</lastmod>
 </url>
 </urlset>

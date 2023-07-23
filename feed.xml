@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Haipe</title>
-    <link href="https://haipe.com.br/feed.xml" rel="self" />
-    <link href="https://haipe.com.br" />
+    <link href="https://tiagomiarelli.github.io/haipe/feed.xml" rel="self" />
+    <link href="https://tiagomiarelli.github.io/haipe" />
     <updated>2023-07-22T17:29:13-03:00</updated>
     <author>
         <name>Tiago Santos</name>
     </author>
-    <id>https://haipe.com.br</id>
+    <id>https://tiagomiarelli.github.io/haipe</id>
 
     <entry>
         <title>Google News - Minha Resenha</title>
         <author>
             <name>Tiago Santos</name>
         </author>
-        <link href="https://haipe.com.br/google-news-minha-resenha/"/>
-        <id>https://haipe.com.br/google-news-minha-resenha/</id>
+        <link href="https://tiagomiarelli.github.io/haipe/google-news-minha-resenha/"/>
+        <id>https://tiagomiarelli.github.io/haipe/google-news-minha-resenha/</id>
             <category term="Posts"/>
 
         <updated>2023-07-22T17:29:13-03:00</updated>
@@ -626,8 +626,8 @@
         <author>
             <name>Tiago Santos</name>
         </author>
-        <link href="https://haipe.com.br/web-20/"/>
-        <id>https://haipe.com.br/web-20/</id>
+        <link href="https://tiagomiarelli.github.io/haipe/web-20/"/>
+        <id>https://tiagomiarelli.github.io/haipe/web-20/</id>
 
         <updated>2023-07-22T16:45:57-03:00</updated>
             <summary></summary>
@@ -638,8 +638,8 @@
         <author>
             <name>Tiago Santos</name>
         </author>
-        <link href="https://haipe.com.br/podcasts/"/>
-        <id>https://haipe.com.br/podcasts/</id>
+        <link href="https://tiagomiarelli.github.io/haipe/podcasts/"/>
+        <id>https://tiagomiarelli.github.io/haipe/podcasts/</id>
 
         <updated>2023-07-22T16:45:50-03:00</updated>
             <summary></summary>
@@ -650,8 +650,8 @@
         <author>
             <name>Tiago Santos</name>
         </author>
-        <link href="https://haipe.com.br/produtos/"/>
-        <id>https://haipe.com.br/produtos/</id>
+        <link href="https://tiagomiarelli.github.io/haipe/produtos/"/>
+        <id>https://tiagomiarelli.github.io/haipe/produtos/</id>
 
         <updated>2023-07-22T17:13:34-03:00</updated>
             <summary>
@@ -667,7 +667,7 @@
 </ul>
 <h2>Posts Links:</h2>
 <ul>
-<li><a href="https://haipe.com.br/google-news-minha-resenha/" title="Google News">Google News</a></li>
+<li><a href="https://tiagomiarelli.github.io/haipe/google-news-minha-resenha/" title="Google News">Google News</a></li>
 </ul>
             ]]>
         </content>
@@ -677,8 +677,8 @@
         <author>
             <name>Tiago Santos</name>
         </author>
-        <link href="https://haipe.com.br/financas/"/>
-        <id>https://haipe.com.br/financas/</id>
+        <link href="https://tiagomiarelli.github.io/haipe/financas/"/>
+        <id>https://tiagomiarelli.github.io/haipe/financas/</id>
 
         <updated>2023-07-22T16:44:45-03:00</updated>
             <summary></summary>
@@ -689,8 +689,8 @@
         <author>
             <name>Tiago Santos</name>
         </author>
-        <link href="https://haipe.com.br/viagens/"/>
-        <id>https://haipe.com.br/viagens/</id>
+        <link href="https://tiagomiarelli.github.io/haipe/viagens/"/>
+        <id>https://tiagomiarelli.github.io/haipe/viagens/</id>
 
         <updated>2023-07-22T16:44:34-03:00</updated>
             <summary></summary>
