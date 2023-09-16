@@ -10,16 +10,33 @@
     },
     "items": [
         {
+            "id": "https://tiagomiarelli.github.io/haipe/post-para-o-douglas/",
+            "url": "https://tiagomiarelli.github.io/haipe/post-para-o-douglas/",
+            "title": "O QUE É SEO ON PAGE",
+            "summary": "asdfasdfsadfasdfasdfsadfsadf",
+            "content_html": "<p>asdfasdfsadfasdfasdfsadfsadf</p>",
+            "author": {
+                "name": "Tiago Santos"
+            },
+            "tags": [
+                   "Posts"
+            ],
+            "date_published": "2023-09-16T11:40:01-03:00",
+            "date_modified": "2023-09-16T11:40:58-03:00"
+        },
+        {
             "id": "https://tiagomiarelli.github.io/haipe/web-20/",
             "url": "https://tiagomiarelli.github.io/haipe/web-20/",
-            "title": "Web 2.0",
+            "title": "PÁGINA PILAR - SEO",
+            "summary": "O QUE É SEO ON PAGE",
+            "content_html": "<p><a href=\"https://tiagomiarelli.github.io/haipe/post-para-o-douglas/\" title=\"O QUE É SEO ON PAGE\" target=\"_blank\" rel=\"noopener noreferrer\">O QUE É SEO ON PAGE</a></p>",
             "author": {
                 "name": "Tiago Santos"
             },
             "tags": [
             ],
             "date_published": "2023-07-22T16:45:57-03:00",
-            "date_modified": "2023-07-22T16:45:57-03:00"
+            "date_modified": "2023-09-16T11:42:06-03:00"
         },
         {
             "id": "https://tiagomiarelli.github.io/haipe/podcasts/",
