@@ -10,6 +10,18 @@
     },
     "items": [
         {
+            "id": "https://tiagomiarelli.github.io/haipe/isto-e-um-post-de-test/",
+            "url": "https://tiagomiarelli.github.io/haipe/isto-e-um-post-de-test/",
+            "title": "isto é um post de test",
+            "author": {
+                "name": "Tiago Santos"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-30T16:22:12-03:00",
+            "date_modified": "2023-09-30T16:22:12-03:00"
+        },
+        {
             "id": "https://tiagomiarelli.github.io/haipe/post-para-o-douglas/",
             "url": "https://tiagomiarelli.github.io/haipe/post-para-o-douglas/",
             "title": "O QUE É SEO ON PAGE",

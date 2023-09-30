@@ -3,12 +3,24 @@
     <title>Haipe</title>
     <link href="https://tiagomiarelli.github.io/haipe/feed.xml" rel="self" />
     <link href="https://tiagomiarelli.github.io/haipe" />
-    <updated>2023-09-16T11:42:06-03:00</updated>
+    <updated>2023-09-30T16:22:12-03:00</updated>
     <author>
         <name>Tiago Santos</name>
     </author>
     <id>https://tiagomiarelli.github.io/haipe</id>
 
+    <entry>
+        <title>isto é um post de test</title>
+        <author>
+            <name>Tiago Santos</name>
+        </author>
+        <link href="https://tiagomiarelli.github.io/haipe/isto-e-um-post-de-test/"/>
+        <id>https://tiagomiarelli.github.io/haipe/isto-e-um-post-de-test/</id>
+
+        <updated>2023-09-30T16:22:12-03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>O QUE É SEO ON PAGE</title>
         <author>
