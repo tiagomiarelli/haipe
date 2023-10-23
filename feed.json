@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://guia.publishers.academy/posts-de-teste.html",
-            "url": "https://guia.publishers.academy/posts-de-teste.html",
+            "id": "https://guia.publishers.academy/posts-de-teste/",
+            "url": "https://guia.publishers.academy/posts-de-teste/",
             "title": "Posts de teste",
             "summary": "lorem ipsun",
             "content_html": "<p>lorem ipsun</p>",
