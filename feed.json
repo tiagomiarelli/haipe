@@ -9,19 +9,5 @@
         "name": "Tiago Miarelli"
     },
     "items": [
-        {
-            "id": "https://guia.publishers.academy/posts-de-teste/",
-            "url": "https://guia.publishers.academy/posts-de-teste/",
-            "title": "Posts de teste",
-            "summary": "lorem ipsun",
-            "content_html": "<p>lorem ipsun</p>",
-            "author": {
-                "name": "Tiago Miarelli"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-10-22T21:06:28-03:00",
-            "date_modified": "2023-10-22T21:06:28-03:00"
-        }
     ]
 }
