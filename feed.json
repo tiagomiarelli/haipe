@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Publishers Academy",
     "description": "",
-    "home_page_url": "https://guia.publishers.academy",
-    "feed_url": "https://guia.publishers.academy/feed.json",
+    "home_page_url": "https://tiagomiarelli.github.io/publishers",
+    "feed_url": "https://tiagomiarelli.github.io/publishers/feed.json",
     "user_comment": "",
-    "icon": "https://guia.publishers.academy/media/website/publishers-academy.png",
+    "icon": "https://tiagomiarelli.github.io/publishers/media/website/publishers-academy.png",
     "author": {
         "name": "Tiago Miarelli"
     },

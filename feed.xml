@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Publishers Academy</title>
-    <link href="https://guia.publishers.academy/feed.xml" rel="self" />
-    <link href="https://guia.publishers.academy" />
+    <link href="https://tiagomiarelli.github.io/publishers/feed.xml" rel="self" />
+    <link href="https://tiagomiarelli.github.io/publishers" />
     <updated>1969-12-31T21:00:00-03:00</updated>
     <author>
         <name>Tiago Miarelli</name>
     </author>
-    <id>https://guia.publishers.academy</id>
+    <id>https://tiagomiarelli.github.io/publishers</id>
 
 </feed>
